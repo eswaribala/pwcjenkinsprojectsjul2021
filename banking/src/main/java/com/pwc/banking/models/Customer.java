@@ -10,6 +10,7 @@ import lombok.Data;
  */
 public class Customer {
 	
+	
 	private long customerId;
 	private String name;
 	
