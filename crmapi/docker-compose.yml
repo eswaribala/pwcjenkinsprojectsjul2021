@@ -5,7 +5,7 @@ services:
     image: mysql
     environment:
       - MYSQL_ROOT_PASSWORD=password
-      - MYSQL_DATABASE=boainterdevcustomerdb
+      - MYSQL_DATABASE=demodb
     volumes:
       - /data/mysql
   
